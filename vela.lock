@@ -15,7 +15,7 @@ verifiers:
 carina:
   kernel: carina@0.1.0
   digest: sha256:2de6244bc3c695cd83adf7d17fd9c52b6586ce060874b37814cc35aff340d5ee
-snapshot_hash: sha256:815287e9e56e905dfc35f7edb8a6847ced6d8ebd6fc57fbdafbe664aedb1ea42
+snapshot_hash: sha256:eaca33d364fe4d7dcb1b0b4c0304ac00fc92cb03c5fa6c1700b7e7bff9fbce7c
 event_log_hash: sha256:ea77ee098629148cafa5efdf1db1ec24cfc42bd3936d8337b8bdb5a13c9d9c96
 proposal_state_hash: sha256:5050967161a938db5ca836dc516e62e697d25dad38287a9b1e4734fb68d5979f
 sources_hash: sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
@@ -24,7 +24,7 @@ review_hash: sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202
 proof_freshness: fresh
 proof:
   latest: proof/latest.json
-  digest: sha256:bd78670be8e2962f750d4969dcd35e01757385fd20fdbc6e9c435c5108c97d20
+  digest: sha256:be778e5f5ed97e20d3e21f4cc63facb47e83467c2979658ebbce29f6ff7afa3e
   freshness: fresh
   events_manifest: proof/events.manifest.jsonl
   replay_trace: proof/replay.trace.jsonl

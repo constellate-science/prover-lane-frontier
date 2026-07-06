@@ -2,7 +2,7 @@ schema: vela.frontier_manifest.v0.1
 layout: vela.frontier_repo.v0.1
 mode: split
 frontier_id: vfr_b354d1ae5d88038b
-name: unnamed
+name: 'Prover lane: kernel-checked Lean theorems'
 description: ''
 visibility: public
 scope:
